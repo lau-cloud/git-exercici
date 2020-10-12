@@ -1,1 +1,3 @@
 Hoy es un día soleado
+
+Qué tiempo hará ahora cuando abra la ventana?
